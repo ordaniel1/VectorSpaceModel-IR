@@ -25,5 +25,18 @@ python vsm_ir.py query [ranking] [index_path] “<question>”
 -Python 3.x
 -NLTK library
 
+## Corpus Attribution
+
+The included corpus is sourced from:
+
+**Title:** The Cystic Fibrosis Database: Content and Research Opportunities  
+**Authors:** W.M. Shaw, J.B. Wood, R.E. Wood, H.R. Tibbo  
+**Source:** School of Information and Library Science, University of North Carolina  
+**Publication:** Library and Information Science Research (LISR) 13, pp. 347‐366, 1991
+
+This corpus is distributed in compliance with its original license. All rights belong to the respective authors and copyright holders.
+
+**Disclaimer:** This repository includes the corpus for research and educational purposes. The repository owner holds no rights to the original corpus and encourages users to review and adhere to the original license terms.
+
 
 
